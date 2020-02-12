@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App.Core", "App.Core\App.Core.csproj", "{D946F23A-C2AE-4B12-9D8C-F68C5F910168}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{EEE4559A-B137-4111-94E2-3B6F1B7396C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D946F23A-C2AE-4B12-9D8C-F68C5F910168}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D946F23A-C2AE-4B12-9D8C-F68C5F910168}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D946F23A-C2AE-4B12-9D8C-F68C5F910168}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D946F23A-C2AE-4B12-9D8C-F68C5F910168}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EEE4559A-B137-4111-94E2-3B6F1B7396C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEE4559A-B137-4111-94E2-3B6F1B7396C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEE4559A-B137-4111-94E2-3B6F1B7396C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEE4559A-B137-4111-94E2-3B6F1B7396C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D199A038-D7ED-493E-A9F4-50F2ED47A09E}
+	EndGlobalSection
+EndGlobal
